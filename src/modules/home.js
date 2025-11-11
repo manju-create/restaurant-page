@@ -3,8 +3,8 @@ function loadhome() {
     content.innerHTML = '';
 
     const headline=document.createElement('h1');
-    headline.textContent="Welcome to Our Restaurant";
-    headline.classList.add('headline');
+    headline.textContent="SMN RESTAURANT";
+    headline.classList.add('headline'); 
 
     const image=document.createElement('img');
     image.src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80";

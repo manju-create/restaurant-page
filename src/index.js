@@ -1,7 +1,7 @@
 import loadAbout from "./modules/about.js";    
 import loadhome from "./modules/home.js";
 import loadmenu from "./modules/menu.js";
-
+import './styles/styles.css';
 function initializePage(){
     loadhome();
 

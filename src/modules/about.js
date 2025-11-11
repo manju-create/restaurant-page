@@ -23,5 +23,8 @@ function loadAbout(){
     content.appendChild(abouttext);
     content.appendChild(mission);
     content.appendChild(location);
-}
+    }
     export default loadAbout;
+
+
+
